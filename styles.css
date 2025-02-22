@@ -1,6 +1,7 @@
 body{
     background-color: beige;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
 
 a{
@@ -8,6 +9,18 @@ a{
 }
 
 h2{
-    color: greenyellow;
+    color: rgb(0, 255, 34);
 }
 
+h1{
+    font-size: 70px;
+}
+
+.food-img{
+    margin: 0px auto;
+}
+
+.lefty{
+    text-align: left;
+    align-items: left;
+}
